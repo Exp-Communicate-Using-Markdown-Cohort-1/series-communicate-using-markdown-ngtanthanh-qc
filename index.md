@@ -3,4 +3,4 @@
 ###### This is an `<h6>` header, which is the smallest
 
 # add image
-![Image of cat cat](https://octodex.github.com/images/yaktocat.png)
+![Image of cat cat](https://via.placeholder.com/300/09f/fff.png)
