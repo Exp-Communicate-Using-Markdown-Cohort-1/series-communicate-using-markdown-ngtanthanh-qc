@@ -4,3 +4,8 @@
 
 # add image
 ![Image of cat cat](https://via.placeholder.com/300/09f/fff.png)
+
+```python
+def function():
+    print('yes')
+```
